@@ -1,9 +1,9 @@
-# ** **
+# **Building Car Park Counter With OpenCV**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 
-• This repository consists of files required to deploy a 
+• This repository consists of files required to deploy a Building Car Park Counter With OpenCV on Pycharm IDE 
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -14,7 +14,10 @@
 
 
 ## Deployment
-
+  1. Download the necessary files. #images and videos
+  2. Import the following Libraries below mentioned.
+  3. Deploy the model.
+  4. Implement & test the model.
   
 ## Installation
 
@@ -22,7 +25,10 @@ To install the libraries used in this project. Follow the
 below steps:
 
 ```bash
-
+import cv2
+import numpy as np
+import cvzone
+import pickle
 
 ```
     
